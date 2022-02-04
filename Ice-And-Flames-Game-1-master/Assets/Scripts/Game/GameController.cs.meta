@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/AppControllers/StandardCanvasController.cs.meta
+guid: 6c4777922466a3344a871db6b609e14a
+=======
+guid: 42ce93479fc2cc54dbffb1a2767feae3
+>>>>>>> master:Assets/Scripts/Game/GameController.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
